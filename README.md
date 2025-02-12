@@ -2,4 +2,4 @@
 
 ---
 
-Privacy Policies for my apps. Do not touch them!
+Privacy Policies for my apps.
